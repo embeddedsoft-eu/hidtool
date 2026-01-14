@@ -2,6 +2,8 @@
 
 Minimal C++ command-line tool for working with USB HID devices using HIDAPI.
 
+Minimal C++ HIDAPI tool for Windows (MSYS2)
+
 ## Features
 - Open device by VID/PID
 - Send data to HID device
